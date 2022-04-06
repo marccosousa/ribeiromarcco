@@ -9,5 +9,5 @@ Oiiii, estou focado no aprendizado de desenvolvimento! Espero conseguir em breve
 - 💬 Pode me perguntar sobre qualquer coisa, responderei até onde meu conhecimento alcançar.
 - 📫 Só mandar um e-mail ou me caçar nas minhas redes. marcosousacontato@gmail.com
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Comecei a estudar Js mas depois que comecei a aprender C me prendeu demais.
+- ⚡ Fun fact: Comecei a estudar Js mas depois que comecei a aprender C, a linguagem me prendeu demais.
 
