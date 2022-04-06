@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Oiiii, estou focado no aprendizado de desenvolvimento! Espero conseguir em breve colocar todo o meu conhecimento pra jogo!
+
 <!--
 **ribeiromarcco/ribeiromarcco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
