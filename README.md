@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-Oiiii, estou focado no aprendizado de desenvolvimento! Espero conseguir em breve colocar todo o meu conhecimento pra jogo! Atualmente estudo C mas C#, Java e Ruby tem me chamado muita atenção, espero conseguir me adentrar em uma delas.  
+Oiiii, estou focado no aprendizado em desenvolvimento! Espero conseguir em breve colocar todo o meu conhecimento pra jogo! Atualmente estudo Java por conta própria, e me divido com as matérias da faculdade.    
 
 - 🔭 Estou trabalhando o meu conhecimento e buscando oportunidades. 
-- 🌱 Atualmente estou aprendendo C mas espero que logo uma linguagem me encontre. 
+- 🌱 Atualmente estou aprendendo e focado em Java. 
 - 👯 Procuro colaborar com qualquer lugar que me dê uma oportunidade. 
-- 🤔 Preciso de ajuda em POO, sou muito fã disso e estou começando, qualquer ajuda é bem-vinda. 
-- 💬 Pode me perguntar sobre qualquer coisa, responderei até onde meu conhecimento alcançar.
 - 📫 Só mandar um e-mail ou me caçar nas minhas redes. marcosousacontato@gmail.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Comecei a estudar Js mas depois que comecei a aprender C, a linguagem me prendeu demais.
+- ⚡ Fun fact: Comecei a estudar Js mas depois que comecei a aprender C, a linguagem me prendeu e vi que Java era parecida e "mais comercial" e gostei muito de POO. Então fiquei focado em Java. 
 
